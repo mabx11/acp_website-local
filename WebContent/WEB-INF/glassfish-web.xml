@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE glassfish-web-app PUBLIC "-//GlassFish.org//DTD GlassFish Application Server 3.1 Servlet 3.0//EN" "http://glassfish.org/dtds/glassfish-web-app_3_0-1.dtd">
+<glassfish-web-app>
+    <context-root>/acp-website</context-root>
+    <property name="alternatedocroot_1" value="from=/PWACP-fotos_arboles/* dir=C:\payara5\glassfish"></property>
+    <property name="alternatedocroot_1" value="from=/PWACP-fotos_productos/* dir=C:\payara5\glassfish"></property>
+    <property name="alternatedocroot_1" value="from=/PWACP-fotos_banner/* dir=C:\payara5\glassfish"></property>
+    <property name="alternatedocroot_1" value="from=/PWACP-fotos_eventos/* dir=C:\payara5\glassfish"></property>
+    <property name="alternatedocroot_1" value="from=/PWACP-fotos_publicaciones/* dir=C:\payara5\glassfish"></property>
+    <property name="alternatedocroot_1" value="from=/PWACP-fotos_servicios/* dir=C:\payara5\glassfish"></property>
+    <property name="alternatedocroot_1" value="from=/PWACP-fotos_mapa/* dir=C:\payara5\glassfish"></property>
+    
+    <!-- Directorio de documentos -->
+    <property name="alternatedocroot_1" value="from=/PWACP-documentos/* dir=C:\payara5\glassfish"></property>
+</glassfish-web-app>
